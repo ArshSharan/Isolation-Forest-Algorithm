@@ -55,7 +55,7 @@ The model assigns an anomaly score to each point, and classifies them as either:
 
 You can visualize the anomalies using a scatter plot or other graphs provided in the notebook.
 
-## 🛠️ Customization
+## Customization
 You can easily adapt the notebook for your own dataset by replacing the CSV file and adjusting:
 
 Number of estimators (n_estimators)
